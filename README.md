@@ -7,6 +7,7 @@ The ROS is a middle ware that runs on linux Hosts. It provides a realiable distr
 clone the file under the src folder of your catkin workspace and run catkin_make to compile on your system. Navigate to scripts folder and execute home_service.launch
 
 #### Gazebo Simulation
+Gazebo is a physics-based, high fidelity 3D simulator for robotics. Gazebo provides the ability to accurately simulate one or more robots in complex indoor and outdoor environments filled with static and dynamic objects, realistic lighting, and programmable interactions.
 
 #### ROS Essentials
 
